@@ -1,5 +1,5 @@
 # Turistae - Mobile
-Aplicativo mobile Turistaê.
+Repositório - aplicativo Android Turistaê.
 
 <h3>Equipe:</h3>
 Lucas Spizzica<br>
