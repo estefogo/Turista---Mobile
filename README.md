@@ -1,4 +1,4 @@
-# Turista---Mobile
+# Turistae - Mobile
 Aplicativo mobile Turistaê.
 
 <h3>Equipe:</h3>
