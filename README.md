@@ -1,9 +1,9 @@
 # Turista---Mobile
 Aplicativo mobile Turistaê.
 
-Equipe: <hr>
-Lucas Spizzica<hr>
-Ettore Alessandro<hr>
-Vitor Borges<hr>
-Vinícius Borges<hr>
-Rafaela Estefogo<hr>
+Equipe: <br>
+Lucas Spizzica<br>
+Ettore Alessandro<br>
+Vitor Borges<br>
+Vinícius Borges<br>
+Rafaela Estefogo<br>
