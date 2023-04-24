@@ -1,5 +1,5 @@
 # Turistae - Mobile
-Repositório - aplicativo Android Turistaê.
+Repositório - aplicativo Turistaê, desenvolvido em Android.
 
 <h3>Equipe:</h3>
 Lucas Spizzica<br>
